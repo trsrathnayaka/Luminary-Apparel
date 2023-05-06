@@ -39,10 +39,10 @@ It is evident from the data we gather that the main focus of our project is on m
 
 ![image](https://user-images.githubusercontent.com/97075043/236601872-3af05235-5630-4197-8463-3e4dcd018855.png)
 
-### Used Languages
+# Used Languages
 * C# Language
 
-### Used Technologies & Frameworks
+# Used Technologies & Frameworks
 *Visual Studio 2022
 *.NET Framework
 *Microsoft SQL Server
