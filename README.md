@@ -34,3 +34,13 @@ It is evident from the data we gather that the main focus of our project is on m
 ![payroll 1](https://user-images.githubusercontent.com/97075043/236601517-e08da973-f0b7-45a4-a6c6-c4f4ea816470.PNG)
 ![Payroll calculation](https://user-images.githubusercontent.com/97075043/236601521-1dc5c04c-d2a1-4530-bd0f-aca9953068b0.PNG)
 ![final paysheet](https://user-images.githubusercontent.com/97075043/236601608-c37005df-9461-4d47-a37f-71c3d7b94df3.PNG)
+
+#Programming language and tools used Cont..
+
+*C# Language 
+*Visual Studio 2022
+*.NET Framework
+*Microsoft SQL Server
+
+
+
