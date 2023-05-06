@@ -35,12 +35,27 @@ It is evident from the data we gather that the main focus of our project is on m
 ![Payroll calculation](https://user-images.githubusercontent.com/97075043/236601521-1dc5c04c-d2a1-4530-bd0f-aca9953068b0.PNG)
 ![final paysheet](https://user-images.githubusercontent.com/97075043/236601608-c37005df-9461-4d47-a37f-71c3d7b94df3.PNG)
 
-#Programming language and tools used Cont..
+# System Functinal Diagram
 
-*C# Language 
+![image](https://user-images.githubusercontent.com/97075043/236601872-3af05235-5630-4197-8463-3e4dcd018855.png)
+
+### Used Languages
+* C# Language
+
+### Used Technologies & Frameworks
 *Visual Studio 2022
 *.NET Framework
 *Microsoft SQL Server
+
+# Future Suggesions
+
+* Luminary Apparel could incorporate a performance management system to increase employee engagement, motivation, and productivity, leading to better business outcomes.
+* Integrate a talent management system to identify and develop top talent to meet long-term business goals.*
+* Luminary Apparel should consider incorporating an employee engagement survey into the HCM system to increase employee retention and job satisfaction.
+
+## Thank you 😃
+
+If you like this project just click ⭐ and share it with others.
 
 
 
