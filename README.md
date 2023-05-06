@@ -33,5 +33,4 @@ It is evident from the data we gather that the main focus of our project is on m
 ![Loan Page](https://user-images.githubusercontent.com/97075043/236601511-adc97129-fe7e-4349-ac18-2a98fee9e3b8.PNG)
 ![payroll 1](https://user-images.githubusercontent.com/97075043/236601517-e08da973-f0b7-45a4-a6c6-c4f4ea816470.PNG)
 ![Payroll calculation](https://user-images.githubusercontent.com/97075043/236601521-1dc5c04c-d2a1-4530-bd0f-aca9953068b0.PNG)
-![Abou![final paysheet](https://user-images.githubusercontent.com/97075043/236601556-742c2b76-3fb4-49ee-bf56-9caf8dbde4fd.PNG)
-t page](https://user-images.githubusercontent.com/97075043/236601527-33cedd74-350d-4f23-bcf4-41a12e66e579.PNG)
+![final paysheet](https://user-images.githubusercontent.com/97075043/236601608-c37005df-9461-4d47-a37f-71c3d7b94df3.PNG)
