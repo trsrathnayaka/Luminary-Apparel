@@ -43,9 +43,9 @@ It is evident from the data we gather that the main focus of our project is on m
 * C# Language
 
 # Used Technologies & Frameworks
-*Visual Studio 2022
-*.NET Framework
-*Microsoft SQL Server
+* Visual Studio 2022
+* .NET Framework
+* Microsoft SQL Server
 
 # Future Suggesions
 
@@ -53,7 +53,7 @@ It is evident from the data we gather that the main focus of our project is on m
 * Integrate a talent management system to identify and develop top talent to meet long-term business goals.*
 * Luminary Apparel should consider incorporating an employee engagement survey into the HCM system to increase employee retention and job satisfaction.
 
-## Thank you 😃
+# Thank you 😃
 
 If you like this project just click ⭐ and share it with others.
 
