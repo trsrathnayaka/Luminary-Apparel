@@ -45,6 +45,7 @@ It is evident from the data we gather that the main focus of our project is on m
 * Visual Studio 2022
 * .NET Framework
 * Microsoft SQL Server
+* API Core
 
 # Future Suggesions
 
