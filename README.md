@@ -32,7 +32,6 @@ It is evident from the data we gather that the main focus of our project is on m
 ![Loan admin](https://user-images.githubusercontent.com/97075043/236601507-f5495c11-68aa-4b71-b4e3-7835c8675e0f.PNG)
 ![Loan Page](https://user-images.githubusercontent.com/97075043/236601511-adc97129-fe7e-4349-ac18-2a98fee9e3b8.PNG)
 ![payroll 1](https://user-images.githubusercontent.com/97075043/236601517-e08da973-f0b7-45a4-a6c6-c4f4ea816470.PNG)
-![Payroll calculation](https://user-images.githubusercontent.com/97075043/236601521-1dc5c04c-d2a1-4530-bd0f-aca9953068b0.PNG)
 ![final paysheet](https://user-images.githubusercontent.com/97075043/236601608-c37005df-9461-4d47-a37f-71c3d7b94df3.PNG)
 
 # System Functinal Diagram
