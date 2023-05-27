@@ -53,6 +53,14 @@ It is evident from the data we gather that the main focus of our project is on m
 * Integrate a talent management system to identify and develop top talent to meet long-term business goals.*
 * Luminary Apparel should consider incorporating an employee engagement survey into the HCM system to increase employee retention and job satisfaction.
 
+## Contributors
+*Contributors of `Luminary-Apparel-System` and other related projects*
+  
+<img src="https://avatars.githubusercontent.com/u/97075043?v=4" alt="username" width="100">  
+<img src="https://avatars.githubusercontent.com/u/79258226?v=4" alt="username" width="100">   
+<img src="https://avatars.githubusercontent.com/u/87930614?v=4" alt="username" width="100">  
+<img src="https://avatars.githubusercontent.com/u/99089122?v=4" alt="username" width="100">  
+<img src="https://avatars.githubusercontent.com/u/96585093?v=4" alt="username" width="100">
 # Thank you 😃
 
 If you like this project just click ⭐ and share it with others.
